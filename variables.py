@@ -1,1 +1,2 @@
-Hey i am rahul 
+a="Rahul"
+print(a)
