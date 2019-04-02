@@ -1,3 +1,0 @@
-a="Rahul"
-print(a)
-
